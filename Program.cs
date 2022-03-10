@@ -1,12 +1,16 @@
 ﻿using System;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace tpmodul3 // Note: actual namespace depends on the project name.
 {
-    internal class Program
+    class Program
     {
+
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
         }
     }
+
+    class KodePos
+    
 }
